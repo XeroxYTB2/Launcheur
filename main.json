@@ -1,5 +1,5 @@
 {
   "version": "1",
-  "windows_url": "https://example.com/download/windows.zip",
-  "windows_exe": "Game.exe",
+  "windows_url": "https://itchio-mirror.cb031a832f44726753d6267436f3b414.r2.cloudflarestorage.com/upload2/game/4087976/15721356?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=3edfcce40115d057d0b5606758e7e9ee%2F20251202%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20251202T201614Z&X-Amz-Expires=60&X-Amz-SignedHeaders=host&X-Amz-Signature=d3164cefe5f2e2e16fdc7652ec4be49e8b1ea3a7087d725c8fba615fabbb428e",
+  "windows_exe": "CarTest.exe",
 }
